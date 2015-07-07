@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/RubymineProjects/Hack-something/.idea/untitled.iml" filepath="$USER_HOME$/RubymineProjects/Hack-something/.idea/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hackathon_bpsm.iml" filepath="$PROJECT_DIR$/.idea/hackathon_bpsm.iml" />
     </modules>
   </component>
 </project>
